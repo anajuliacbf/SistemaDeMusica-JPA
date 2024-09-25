@@ -6,7 +6,7 @@ Escreva um documento que contenha:
 2. História de usuário que descreve a funcionalidade
 3. O diagrama de classe (UML) e o Modelo Entidade Relacionamento (MER) em cada história de usuário.
 
-# Desenvolvimento:
+## Desenvolvimento:
 - Crie um projeto Java com o framework Spring e desenvolva as entidades.
 - Adicione nas entidades os relacionamentos identificados.
 - Utilize um banco de dados relacional baseado em servidor. (Utilizei o MySQL).
