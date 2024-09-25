@@ -1,6 +1,6 @@
 # JPA Relacionamento entre Entidades - Caso de Sitema de Música
 Desenvolva e modele um sistema de música similar ao Spotify. Descreva as funcionalidades do sistema em forma de história de usuários. <br/>
-Documentação Técnica:
+**Documentação Técnica:**
 Escreva um documento que contenha:
 1. Descrição do sistema a ser desenvolvido.
 2. História de usuário que descreve a funcionalidade
